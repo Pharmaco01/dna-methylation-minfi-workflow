@@ -1,0 +1,16 @@
+# Raw methylation data
+Input_Data_Files.zip
+raw_data/
+*.idat
+*.idat.gz
+
+# Generated R objects and local outputs
+*.RData
+*.rds
+analysis_outputs/
+
+# Notebook and editor files
+.ipynb_checkpoints/
+.Rhistory
+.Rproj.user/
+
